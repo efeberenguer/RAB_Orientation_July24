@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAB_Orientation_July24 - Command 1</Text>
+    <Description>Some description</Description>
+    <Assembly>RAB_Orientation_July24\RAB_Orientation_July24.dll</Assembly>
+    <FullClassName>RAB_Orientation_July24.Command1</FullClassName>
+    <ClientId>7f16ae85-7426-4c3c-b0d6-afee62a29d0c</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAB_Orientation_July24 - Command 2</Text>
+    <Description>Some description</Description>
+    <Assembly>RAB_Orientation_July24\RAB_Orientation_July24.dll</Assembly>
+    <FullClassName>RAB_Orientation_July24.Command2</FullClassName>
+    <ClientId>8ae0e858-dc5b-464d-873b-f6dd23ea4150</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAB_Orientation_July24</Name>
+    <Assembly>RAB_Orientation_July24\RAB_Orientation_July24.dll</Assembly>
+    <FullClassName>RAB_Orientation_July24.App</FullClassName>
+    <ClientId>46e6e46a-3cfe-4fd8-8a68-0fb3434230ae</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
